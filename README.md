@@ -22,6 +22,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit7217/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/harshit7217/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/harshit7217/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +42,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/harshit7217/LeetCode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/harshit7217/LeetCode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
