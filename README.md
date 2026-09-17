@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit7217/LeetCode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/harshit7217/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshit7217/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/harshit7217/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
