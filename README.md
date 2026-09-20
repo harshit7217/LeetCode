@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshit7217/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit7217/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit7217/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/harshit7217/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshit7217/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/harshit7217/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
@@ -47,4 +49,12 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshit7217/LeetCode/tree/master/0007-reverse-integer) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshit7217/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshit7217/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
