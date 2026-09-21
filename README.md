@@ -12,16 +12,19 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/harshit7217/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit7217/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit7217/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/harshit7217/LeetCode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/harshit7217/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshit7217/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/harshit7217/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshit7217/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshit7217/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/harshit7217/LeetCode/tree/master/0541-reverse-string-ii) |
